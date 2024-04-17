@@ -3,4 +3,7 @@ Created this product pricing catalogue by using HTML and Bootstrap.
 
 Here is the link: https://patrarashmitakumari27.github.io/Product-Pricing-Catalogue/ 
 
-https://www.loom.com/share/0903ea9b9ce845fca17247a2cd72ff36?sid=ba12e2fc-3e33-416e-8b6c-1e33d5e67d09
+https://github.com/Patrarashmitakumari27/Product-Pricing-Catalogue/assets/158138312/09f0f152-75f2-46b8-9cec-4889ee27ec07
+
+
+
